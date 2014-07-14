@@ -1,4 +1,4 @@
-Prime-Investigation-
+Prime Investigation
 ====================
 
 
